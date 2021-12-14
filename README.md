@@ -11,19 +11,7 @@ The following tools were used in this project:
 * [Spring Cloud Netflix Zuul](https://spring.io/projects/spring-cloud-netflix)
 * [IDE Eclipse](https://www.eclipse.org/)
 
-## Requirements
-Before starting this project you need to have Git, JDK Oracle, Maven and Eclipse IDE installed.
-
-## Starting the project
-
-### Clonning the project
-```
-$ git clone https://github.com/erosvitor/spring-cloud-zuul.git
-
-$ cd spring-cloud-zuul
-```
-
-### Testing the project
+## Testing the project
 **Step 1:** Start the application using Eclipse IDE or by Maven command line
 * EurekaServer
 * ZuulServer
@@ -41,7 +29,3 @@ http://localhost:8765/servicetwo/servicetwo
 
 ## License
 This project is under license from MIT. For more details, see the LICENSE file.
-
-## Release History
-* 1.0.0 (2021-05-15)
-    * First version
